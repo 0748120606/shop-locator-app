@@ -1,0 +1,21 @@
+2025-05-26 23:57:45.962828 - Shop 47 - approved: 0 - avg_quality: 0.00
+2025-05-27 00:02:39.186524 - Shop 48 - approved: 0 - avg_quality: 0.00
+Shop 49 - Quality: 0.000, Anomaly: False, Result: DECLINED
+Shop 48 - Quality: 0.000, Anomaly: False, Result: DECLINED
+Shop 52 - approved: False - best_q: 0
+Shop 53 - approved: False - avg_q: 0.00 - anomaly: False - price: 25000.00 - size: 20 - imgs: 0
+2025-05-27 13:10:43.030576 - Shop 54 - anomaly: False
+2025-05-27 13:18:07.229193 - Shop 55 - anomaly: False
+2025-05-27 13:26:47.742246 - Shop 56 - Result: PENDING
+2025-05-27 15:11:17.427212 - Shop 57 - Result: PENDING
+2025-05-27 20:47:37,649 - Shop 58 - Result: PENDING
+2025-05-27 20:49:49,144 - Shop 59 - Result: PENDING
+2025-05-27 21:12:20,745 - Shop 63 - Result: REJECTED (Anomaly)
+2025-05-27 21:23:48,767 - Shop 64 - Result: REJECTED (Anomaly)
+2025-07-22 22:09:19,604 - Shop 65 - Result: PENDING
+2025-07-22 22:09:22,028 - Shop 66 - Result: PENDING
+2025-07-22 22:17:49,626 - Shop 67 - Result: PENDING
+2025-07-22 22:20:22,783 - Shop 68 - Result: PENDING
+2025-07-22 22:22:30,057 - Shop 69 - Result: PENDING
+2025-07-23 16:32:08,350 - Shop 70 - Result: PENDING
+2025-07-23 16:32:43,045 - Shop 71 - Result: REJECTED (Anomaly)
